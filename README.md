@@ -6,6 +6,6 @@ Now leave....
 - I like to code
 - I'm on GitHub
 
-I do nothing for a living..... which is why I'm broke =p
+Fun Fact: I drew my pfp. I know, it's so good ;)
 
 Please stop reading this ._.

@@ -6,4 +6,6 @@ Now leave....
 - I like to code
 - I'm on GitHub
 
+I do nothing for a living..... which is why I'm broke =p
+
 Please stop reading this ._.

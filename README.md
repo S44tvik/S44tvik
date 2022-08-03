@@ -14,4 +14,8 @@ My "Contributions"
 
 _generated with [Razorblade/snk](https://github.com/Platane/snk)_
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzRazorblade&theme=radical)
+
 Please stop reading this ._.
+

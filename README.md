@@ -6,7 +6,7 @@ Now leave....
 - I like to code
 - I'm on GitHub
 
-Fun Fact: I drew my pfp. I know, it's so good ;)
+Fun Fact: my pfp is made by Ani-Chan on discord ;)
 
 My "Contributions"
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)

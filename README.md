@@ -17,7 +17,7 @@ _generated with [Razorblade/snk](https://github.com/Platane/snk)_
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzRazorblade&theme=tokyonight)
 
-
+https://github.com/antonkomarev/github-profile-views-counter/commits?author=dependabot%5Bbot%5D
 
 
 Please stop reading this ._.

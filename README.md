@@ -20,8 +20,6 @@ _generated with [Razorblade/snk](https://github.com/Platane/snk)_
 
 
 
-https://github.com/antonkomarev/github-profile-views-counter.git
-
 
 
 Please stop reading this ._.

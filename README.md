@@ -1,12 +1,12 @@
 ### Saatvik 👋
 
 Welcome to my profile!!
-Now leave....
-- I'm attempting to make a discord bot
-- I like to code
-- I'm on GitHub
 
-Fun Fact: Python is my first language ;)
+👋 I’m @S44tvik
+👀 I’m interested in Computer Science and Entreprenuership
+🌱 I’m currently mastering of python
+💞️ I’m looking to collaborate on python/java projects to improve my skills
+📫 How to reach me, **discord: ** s44tvik
 
 My "Contributions"
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)

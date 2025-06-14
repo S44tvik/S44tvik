@@ -6,7 +6,7 @@ Welcome to my profile!!
 - 👀 I’m interested in Computer Science and Entreprenuership
 - 🌱 I’m currently mastering of python
 - 💞️ I’m looking to collaborate on python/java projects to improve my skills
-- 📫 How to reach me, **discord: ** s44tvik
+- 📫 How to reach me, email: bhusre1@gmail.com
 
 My "Contributions"
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)

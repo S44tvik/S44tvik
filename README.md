@@ -4,7 +4,7 @@ Welcome to my profile!!
 
 - 👋 I’m @S44tvik
 - 👀 I’m interested in Computer Science and Entreprenuership
-- 🌱 I’m currently mastering of python
+- 🌱 I’m currently mastering on python and java
 - 💞️ I’m looking to collaborate on python/java projects to improve my skills
 - 📫 How to reach me, email: bhusre1@gmail.com
 
